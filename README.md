@@ -34,5 +34,5 @@ Feel free to explore my GitHub repositories for projects and contributions.
 ## Connect with Me
 
 - 📧 Email: faranaknasoori@gmail.com
-- 🌐 Linkedin: www.linkedin.com/in/faranaknasoori
+- 🌐 Linkedin: www.linkedin.com/in/faranak-nasoori
 
