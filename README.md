@@ -25,7 +25,7 @@ I started learning Python3 on my own during a dead-end job, fueled by the desire
 
 ## More Information
 
-🌐 [Check out my website][(https://your-website-url.com)](https://faranak-nasoori-old-portofolio.netlify.app) for more information and my resume!
+🌐 [Check out my website](https://faranak-nasoori-old-portofolio.netlify.app) for more information and my resume!
 
 Feel free to explore my GitHub repositories for projects and contributions.
 
